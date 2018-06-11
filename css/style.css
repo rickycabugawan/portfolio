@@ -201,7 +201,7 @@ body {
 		align-content: center;
 	}
   body {
-/*     grid-template-rows: 100% 100% 100%; */
+    grid-template-rows: 100% auto 100%;
   }
 }
 
